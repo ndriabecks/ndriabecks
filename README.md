@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ndriabecks
-- 👀 I’m interested in Cybersecurity, Machine Learning and Blockchain
-- 🌱 I’m currently working on my M.Sc. thesis in behavioral analytics and ML for Insider Threat detection
+- 👀 Extremely curious, passionate about Data Engineering and Science, Cybersecurity and Blockchain enthusiast.
+- 🌱 Currently working on building a streaming analysis platform in the cybersecurity domain
+- 💼 M.SC in Engineering in Computer Science
 
 <!---
 ndriabecks/ndriabecks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
